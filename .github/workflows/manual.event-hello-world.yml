@@ -1,4 +1,4 @@
-name: Trigger "hello-world" event type as repo dispatch
+name: Trigger "hello-world" event type as repo dispatch (Emit hello world)
 on:
   workflow_dispatch:
     inputs:
